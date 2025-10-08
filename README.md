@@ -116,7 +116,7 @@ The project follows the standard CodeIgniter 3 directory structure:
 - **User Management:** Secure signup with email verification, login, and a "forgot password" flow.
 - **Event Application:** A multi-tab form for users to submit event details, media, and applicant information.
 - **Admin Dashboard:** An interface for administrators to view and manage event applications (approve/reject).
-- **Dynamic Content:** Features for displaying announcements and events.
+- **Dynamic Content:** Features for displaying announcements, businesses, and events.
 
 ## Support
 
