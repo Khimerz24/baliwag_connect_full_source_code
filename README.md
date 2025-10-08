@@ -1,5 +1,4 @@
-# Baliwag Connect - Project Handoff
-
+# Baliwag Connect 
 Welcome to the official source code repository for the **Baliwag Connect** web application. This document serves as a comprehensive guide for setting up, running, and understanding the project. We are pleased to hand over this project to you and are confident it will serve its purpose effectively.
 
 ---
@@ -36,17 +35,15 @@ The application is built on the **CodeIgniter 3** framework, a robust and lightw
 
 To run this project, your server environment should meet the following requirements:
 
-- **Web Server:** Apache (or Nginx) with `mod_rewrite` enabled.
+- **Web Server:** Apache 
 - **PHP Version:** 7.4 or newer is recommended.
-- **Database:** MySQL or MariaDB.
+- **Database:** MySQL 
 - **PHP Extensions:**
   - `pdo_mysql` (for database connectivity)
   - `mbstring`
   - `intl` (for internationalization features)
-  - `openssl` (for PHPMailer's SMTP over SSL/TLS)
-- **Composer:** For managing PHP dependencies (optional, as dependencies are included).
 
-A standard **XAMPP** or **WAMP** stack on Windows will meet all these requirements.
+A standard **XAMPP** stack on Windows will meet all these requirements.
 
 ## Installation and Setup
 
